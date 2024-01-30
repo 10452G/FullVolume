@@ -1,6 +1,6 @@
-# --GAME NAME HERE--
+# Full Volume
 
-This repository holds all software developed by VEX IQ Robotics Competition (VIQRC) Team 10452G - Crumbly Cookies for the --GAME YEARS HERE-- Competition Season: --GAME NAME HERE--
+This repository holds all software developed by VEX IQ Robotics Competition (VIQRC) Team 10452G - Crumbly Cookies for the 2023-2024 Competition Season: Full Volume
 
 ## Who are we?
 
