@@ -4,7 +4,7 @@ This repository holds all software developed by VEX IQ Robotics Competition (VIQ
 
 ## Who are we?
 
-Crumbly Cookies are a team from the [Haslett Robotics Club](https://haslettrobotics.com/) in [Haslett, Michigan, USA](https://en.wikipedia.org/wiki/Haslett,_Michigan), made up of students from throughout the [Capital Area](https://en.wikipedia.org/wiki/Lansing%E2%80%93East_Lansing_metropolitan_area). We compete in the Middle School Division of the [VEX IQ Robotics Competition](https://www.vexrobotics.com/iq/competition/viqc-current-game). We are currently in our --nth-- year of competition, and highlights of our previous seasons include:
+Crumbly Cookies are a team from the [Haslett Robotics Club](https://haslettrobotics.com/) in [Haslett, Michigan, USA](https://en.wikipedia.org/wiki/Haslett,_Michigan), made up of students from throughout the [Capital Area](https://en.wikipedia.org/wiki/Lansing%E2%80%93East_Lansing_metropolitan_area). We compete in the Middle School Division of the [VEX IQ Robotics Competition](https://www.vexrobotics.com/iq/competition/viqc-current-game). We are currently in our 2nd year of competition, and highlights of our previous seasons include:
 
 - First Season - 2022-2023: Slapshot
   - All members of the team brand-new to robotics
